@@ -1,7 +1,5 @@
 
 function login() {
-    console.log("Login v11111");
+    console.log("Logging in...");
 }
 
-
-// hello
