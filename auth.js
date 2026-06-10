@@ -1,4 +1,4 @@
 
 function login() {
-   console.log("Login with OAuth");
+    console.log("Login v1");
 }
