@@ -1,5 +1,1 @@
-
-function login() {
-    console.log("Logging in... my account");
-}
-
+console.log("Logging in...");
